@@ -9,6 +9,9 @@ The platform moves beyond simple keyword alerts. It understands the sentiment, c
 ## Business Impact:
 A dashboard is the visible output, but the true value of Streamsight lies in its ability to drive proactive, data-driven decisions across the organization. For Product and Engineering, this means moving from slow feedback cycles to having real-time product insights, allowing for the immediate identification of bugs, feature requests, and competitor critiques. This transforms the product roadmap into a dynamic, instantly responsive asset. Simultaneously, Marketing and Brand Health teams gain a live pulse on brand perception, enabling them to measure the immediate impact of campaigns and identify community advocates. The system also empowers Sales and Lead Generation by functioning as an automated sourcing engine, identifying clear buying signals in public conversations and routing these high-quality leads directly to the sales team. Perhaps most immediately, Support and Developer Relations (DevRel) are transformed from a reactive to a proactive function. By automatically flagging users who are struggling, the DevRel team can engage before frustration builds, creating immense goodwill and cementing a reputation for world-class support.
 
+## App Architecture:
+![Architecture](https://github.com/user-attachments/assets/01c5d82a-b2c9-4a06-a19c-cb2617e53faa)
+
 ## Role of AI:
 1. Filtering out posts actually related to the target company. Reddit/Twitter searches are more of keyword based, using AI we are able to determine if the post is actually talking about the organisation or just the keyword
 2. Finding intent of the posts, whether post is a support request, question, criticism, announcement or a general discussion
