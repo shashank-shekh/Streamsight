@@ -37,6 +37,9 @@ Using an AI agent, this lets you have convesations with AI about the particular 
 ![AI conversation](https://github.com/user-attachments/assets/b5b19338-5c13-4927-a9f0-8011a135803d)
 
 
+## App Architecture:
+![Architecture](https://github.com/user-attachments/assets/01c5d82a-b2c9-4a06-a19c-cb2617e53faa)
+
 
 
 
