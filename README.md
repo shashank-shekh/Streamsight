@@ -26,15 +26,15 @@ Streamsight is more than a social media dashboard; it is an automated intelligen
 
 ### Dashboard home page:
 The top of the page shows a one liner executive summary, the top action items Organization can focus on, overall reliability score based ons ocial media pules, the sentiment pie chart, most talked about topics and also the latest posts
-![Dashboard1](https://drive.google.com/file/d/1VvHlKZ5UdDEtPfdCzUSrhf_mNznR36oF/view)
+![Dashboard1](https://github.com/user-attachments/assets/a66bb2c7-781f-41fc-994c-73332a8638a9)
 
 ### Criticism + Support posts:
 This filters out the posts that are criticizing the product and also the support requests so that they can be separately acted upon. Also lists a line chart of mentions over time
-![Dashboard2](https://drive.google.com/file/d/1AFDs4r7ros3Pp8zDLRp94eGQUwdpbkfA/view)
+![Dashboard2](https://github.com/user-attachments/assets/814e3d16-edde-425f-856e-6c17d384d493)
 
 ### AI insights and conversation with post
 Using an AI agent, this lets you have convesations with AI about the particular post. What the post is about, summary, insights, background, solutions....
-![AI conversation](https://drive.google.com/file/d/1qYY553gLGHOpfUmq72YWOl1UERgb1I1M/view)
+![AI conversation](https://github.com/user-attachments/assets/b5b19338-5c13-4927-a9f0-8011a135803d)
 
 
 
